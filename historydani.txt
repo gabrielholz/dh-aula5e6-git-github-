@@ -1,0 +1,26 @@
+ 1  clear
+    2  git branch
+    3  git pull
+    4  touch historydani.txt
+    5  git push
+    6  git commit -m "envio history dani"
+    7  git push
+    8  git branch
+    9  git add .
+   10  git push historydani.txt
+   11  pwd
+   12  pwd
+   13  pwd
+   14  cd
+   15* cd desktop DH
+   16  clear
+   17  ls
+   18  cd aula-6-inf
+   19  ls
+   20  cd dh-aula5e6-git-github-/
+   21  git branch
+   22  git commit m- "historydani"
+   23  git push
+   24  git add .
+   25  ls
+   26  history
